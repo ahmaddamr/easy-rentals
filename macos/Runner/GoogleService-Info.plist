@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBS809Xui15PGKn-aXFSsAG5Effo8wMhNI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>447140580678</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.easyRentals.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>easy-rentals-9deaa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>easy-rentals-9deaa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:447140580678:ios:903a61fc1ce48293e6a947</string>
+</dict>
+</plist>
